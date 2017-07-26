@@ -1,12 +1,12 @@
 Command line notes-app created using Node.js
 
 
-Commands:__ 
+Commands: <br />
 
--t = title__
+-t = title<br />
 -b = body
 
-add = Add a new note.__
-remove = Remove an existing note, given the title.__
-list = List all existing notes.__
+add = Add a new note.<br />
+remove = Remove an existing note, given the title.<br />
+list = List all existing notes.<br />
 read = Read an existing note.
