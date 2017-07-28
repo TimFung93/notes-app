@@ -9,4 +9,6 @@ Commands: <br />
 add = Add a new note.<br />
 remove = Remove an existing note, given the title.<br />
 list = List all existing notes.<br />
-read = Read an existing note.
+read = Read an existing note. <br />
+
+Example query: node app.js add -t="sometitle" -b="some body"
